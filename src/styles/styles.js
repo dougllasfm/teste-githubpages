@@ -7,7 +7,7 @@ export const Container = styled.div`
   justify-content: center;
   gap: 0.2rem;
 
-  background: #4d0099;
+  background: blue;
   color: #fff;
   height: 100vh;
   margin: 0;
